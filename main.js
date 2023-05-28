@@ -91,7 +91,7 @@ global.loadDatabase = async function loadDatabase() {
 loadDatabase()
 //fix by Rominaru
 //jangan di delete ya bro
-const authF = global.opts['single'] ? `${global.opts._[0] || 'Yaemiko'}.json` : 'Zeltoria'
+const authF = global.opts['single'] ? `${global.opts._[0] || 'Yuki'}.json` : 'Renelz'
 const { state, saveState, saveCreds } = global.opts['single'] ? await useSingleFileAuthState(authF) : await useMultiFileAuthState(authF)                      
 const connectionOptions = {
   printQRInTerminal: true,
