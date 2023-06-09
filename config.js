@@ -57,7 +57,7 @@ global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 global.nameown1= 'Renelz'
 global.nameown2 = 'Renelz'
-global.Linkgc = 'Bentar'
+global.Linkgc = 'https://chat.whatsapp.com/Jtrxmg0GXdIIEOavTjSjGR'
 global.lynk = '-'
 //Link Social Media Ganti Aja Kalau Ga Punya Biarin Aja
 global.sig = 'https://www.instagram.com/reyuvvu' //instagram
