@@ -189,6 +189,7 @@ global.rose = 'Rs-Danil_Elistz'
 global.zeltoria = 'Elistz'
 global.ibeng = 'tamvan'
 global.xcode = 'Frieren'
+global.xzn = 'renelz'
 global.openai = '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'
 global.APIs = {
   lol: 'https://api.lolhuman.xyz',
@@ -202,6 +203,7 @@ global.APIs = {
 global.APIKeys = { 
   'https://api.lolhuman.xyz': 'SGWN',
   'https://violetics.pw': 'beta',
+  'https://zxn.wtf': 'renelz'
   'https://api.itsrose.site': 'Rs-Danil_Elistz',
   'https://api-xcoders.site': 'Frieren',
   'https://violetics.pw': 'beta'
@@ -228,7 +230,7 @@ global.thumbnailUrl = [
 global.fotonya1 = 'https://telegra.ph/file/66cde7753935a62dc5c90.jpg'
 global.fotonya2 = 'https://telegra.ph/file/1436170f781da2f2db978.jpg' 
 global.dtu = 'Official Group'
-global.urlnya = "https://chat.whatsapp.com/CrVqu3mXYJbJFgkbtV0sAR"
+global.urlnya = "https://chat.whatsapp.com/Jtrxmg0GXdIIEOavTjSjGR"
 global.dtc = 'Call Owner'
 global.phn = '0877 8099 9540'
 
