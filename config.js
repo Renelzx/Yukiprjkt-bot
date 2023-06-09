@@ -183,9 +183,9 @@ global.rpg = {
 
 // untuk apikey biarin aja pake ini aja kalau fitur error beli apikeynya
 global.zenzkey = 'zenzkey_1ec92f71d3bb'
-global.lolkey = 'SGWN'
+global.lolkey = 'e755636d6810b39648c7cc65'
 global.caliph = 'Lwlct6wi'
-global.rose = 'Rs-Danil_Elistz'
+global.rose = '13ec1d1bc58313a42bb6c0f9'
 global.zeltoria = 'Elistz'
 global.ibeng = 'tamvan'
 global.xcode = 'Frieren'
@@ -201,10 +201,10 @@ global.APIs = {
 }
 
 global.APIKeys = { 
-  'https://api.lolhuman.xyz': 'SGWN',
+  'https://api.lolhuman.xyz': 'e755636d6810b39648c7cc65',
   'https://violetics.pw': 'beta',
   'https://zxn.wtf': 'renelz'
-  'https://api.itsrose.site': 'Rs-Danil_Elistz',
+  'https://api.itsrose.site': '13ec1d1bc58313a42bb6c0f9',
   'https://api-xcoders.site': 'Frieren',
   'https://violetics.pw': 'beta'
 }
