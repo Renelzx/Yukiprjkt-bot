@@ -61,7 +61,7 @@ export async function handler(chatUpdate) {
                 if (!isNumber(user.laper)) 
                     user.laper = 100
                 if (!isNumber(user.limit))
-                    user.limit = 15
+                    user.limit = 150
                 if (!isNumber(user.lastclaim))
                     user.lastclaim = 0
                 if (!isNumber(user.joinlimit)) 
@@ -116,7 +116,7 @@ export async function handler(chatUpdate) {
                 if (!isNumber(user.bank))
                     user.bank = 0
                 if (!isNumber(user.health))
-                    user.health = 100
+                    user.health = 10000
                 if (!isNumber(user.potion))
                     user.potion = 0
                 if (!isNumber(user.trash))
@@ -359,7 +359,7 @@ if (!isNumber(user.ayam)) user.ayam = 0
             } else
                 global.db.data.users[m.sender] = {
                     exp: 0,
-                    limit: 15,
+                    limit: 150,
                     lastclaim: 0,
                     registered: false,
                     spammer: 0,
